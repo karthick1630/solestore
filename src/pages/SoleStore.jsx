@@ -181,6 +181,9 @@ const PRODUCTS = [
    desc:"Traditional brogue craft, modern comfort. Pebbled leather upper with intricate perforation detailing, memory foam insole, and a flexible rubber heel for all-day formal wear.",
    features:["Pebbled leather","Brogue perforation","Memory foam insole","Flex rubber heel","Antique finish"],
    sizes:[7,8,9,10,11],colors:["Black","Navy Blue"],stock:22,rating:4.3,reviews:134,badge:null,img:imgHeritageBrogue,grad:"135deg,#150a00,#371e08"},
+  {id:13,name:"abc",brand:"xyz",price:3000,mrp:2299,cat:"sports",
+   sizes:[7,8,9,10,11],colors:["Black","White"],stock:5,rating:4.3,reviews:134,badge:null,img:imgHeritageBrogue,grad:"135deg,#150a00,#371e08"},
+  
   // Accessories
   {id:13,name:"Luxury Chrono Watch",brand:"Titan",price:4999,mrp:7499,cat:"accessories",
    desc:"Premium chronograph with stainless steel case, sapphire crystal, and Japanese quartz movement. Water-resistant to 100m. The perfect blend of style and precision.",
